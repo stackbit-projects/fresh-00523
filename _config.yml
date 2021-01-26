@@ -7,7 +7,7 @@ palette: blue
 header:
   type: header
   template: header
-  title: Stackbit Fresh
+  title: Testing
   tagline: Header Tagline
   profile_img: /images/1324.JPG
   profile_img_alt: Author avatar
